@@ -32,6 +32,10 @@ h3 {
   font-size: 18px;
 }
 
+.conference {
+  color: red;
+}
+
 .links {
   text-align: center;
   margin: 20px 0;
